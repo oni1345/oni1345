@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Oni1345/Oni1345/output/snake.svg" alt="Snake animation" />
+!Snake animation
 
 ###
 
