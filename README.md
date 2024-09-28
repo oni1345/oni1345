@@ -30,10 +30,6 @@
 
 ###
 
-<br clear="both">
-
-!Snake animation
-
 ###
 
 <img align="right" height="250" src="https://th.bing.com/th/id/R.4bb406c973cac118c8a4e792d27f2a57?rik=ABkJZbDFfQrfWw&riu=http%3a%2f%2fpa1.narvii.com%2f6514%2fb84e8680dd45b714b80dec9a9a3f4a69ab15d9ea_00.gif&ehk=Nq3KC8OzqGoupdT8nXhdoPpAhxhyYe6UKrPVugG9c4E%3d&risl=&pid=ImgRaw&r=0"  />
