@@ -95,9 +95,3 @@
 <img align="left" height="250" src="https://camo.githubusercontent.com/2e06684b6a672c0264d70df236aa676672d22b3070d70e53a630535ec9352086/68747470733a2f2f696d67322e72656163746f722e63632f706963732f7468756d626e61696c2f706f73742d333535393732372e6a7067"  />
 
 ###
-
-<div align="center">
-  <img height="200" src="https://66.media.tumblr.com/d399df8f60eceeaad289f75804ff8e5a/tumblr_o5bue5GcrB1tgzy56o2_250.gif"  />
-</div>
-
-###
