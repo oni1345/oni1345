@@ -97,3 +97,41 @@
 <img align="left" height="250" src="https://camo.githubusercontent.com/2e06684b6a672c0264d70df236aa676672d22b3070d70e53a630535ec9352086/68747470733a2f2f696d67322e72656163746f722e63632f706963732f7468756d626e61696c2f706f73742d333535393732372e6a7067"  />
 
 ###
+
+<iframe
+      width="100%"
+      height="300"
+      scrolling="no"
+      frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/119795049&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+    ></iframe>
+    <div
+      style="
+        font-size: 10px;
+        color: #cccccc;
+        line-break: anywhere;
+        word-break: normal;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
+          Garuda, Verdana, Tahoma, sans-serif;
+        font-weight: 100;
+      "
+    >
+      <a
+        href="https://soundcloud.com/praise-the-music"
+        title="Praised Be The Music"
+        target="_blank"
+        style="color: #cccccc; text-decoration: none"
+        >Praised Be The Music</a
+      >
+      ·
+      <a
+        href="https://soundcloud.com/praise-the-music/firelink-shrine"
+        title="Firelink Shrine"
+        target="_blank"
+        style="color: #cccccc; text-decoration: none"
+        >Firelink Shrine</a
+      >
